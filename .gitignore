@@ -1,0 +1,5 @@
+build/
+src/
+.vscode/
+prompt_q3
+prompt_tmp
